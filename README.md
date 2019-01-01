@@ -15,3 +15,7 @@ git clone https://github.com/meetalva/secrets.git
 cd secrets
 git secret reveal # Assuming a core team member added your gpg key
 ```
+
+## Access list
+
+* @marionebl
