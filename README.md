@@ -18,4 +18,5 @@ git secret reveal # Assuming a core team member added your gpg key
 
 ## Access list
 
-* @marionebl
+* @marionebl `hello@mario-nebl.de`
+* @tilmx `git@tilman.io`
